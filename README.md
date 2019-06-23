@@ -15,3 +15,4 @@ File | Site
 [20160918_circuit_heater.odp](./20160918_circuit_heater.odp) | [ホットプレートを改造してリフローマシンを作る方法](http://asukiaaa.blogspot.com/2016/09/blog-post.html)
 [20160910_raspberry_pi_aqm1602.odp](./20160910_raspberry_pi_aqm1602.odp) | [Raspberry PiでLCD(AQM1602)を使い、IPを表示する方法](http://asukiaaa.blogspot.jp/2016/09/raspberry-pilcdaqm1602ip.html)
 [20160630_cat_watcher.odp](./20160630_cat_watcher.odp) | [電動水鉄砲で猫よけを作る方法](http://asukiaaa.blogspot.com/2016/06/blog-post_30.html)
+[greenT.svg](./greenT.svg) [greenT.png](./greenT.png) | Profile icon
