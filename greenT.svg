@@ -15,7 +15,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="greenT.svg">
+   sodipodi:docname="greenT.svg"
+   inkscape:export-filename="/home/asuki/gitprojects/blog_docs/greenT.png"
+   inkscape:export-xdpi="120.38"
+   inkscape:export-ydpi="120.38">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -44,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,14 +57,14 @@
      id="layer1"
      transform="translate(0,-197)">
     <path
-       style="fill:#009d00;fill-opacity:1;stroke:none;stroke-width:0.29970223px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 2.921879,238.60814 21.054289,-18.78955 50.925135,-0.15065 22.711357,18.9402 -11.870186,17.50654 -12.92978,-9.61564 v 39.45449 H 27.721845 v -39.45449 l -11.272712,9.465 z"
+       style="fill:#009d00;fill-opacity:1;stroke:none;stroke-width:0.2949594px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 3.6089905,233.61587 24.33222,215.12557 74.456606,214.97731 96.81085,233.61587 85.127311,250.8436 72.400838,241.38109 v 38.82614 H 28.019 v -38.82614 l -11.09546,9.31427 z"
        id="path1366"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:0.29970223px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 35.749173,223.1884 c 0,0 4.996331,8.31576 14.941239,8.19508 9.952736,-0.12075 13.840309,-8.35899 13.840309,-8.35899"
+       style="fill:none;stroke:#000000;stroke-width:0.2949594px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 35.920107,218.44171 c 0,0 4.917767,8.18332 14.706301,8.06457 9.79624,-0.11883 13.622684,-8.22587 13.622684,-8.22587"
        id="path1370"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csc" />
