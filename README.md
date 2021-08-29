@@ -1,8 +1,10 @@
 # blog_docs
-Documents used at http://asukiaaa.blogspot.jp/
+Documents used on https://asukiaaa.blogspot.com
 
 File | Site
 ---- | ----
+[20210829_PIC_analog.odp](./20210829_PIC_analog.odp) | [pic16f1829でアナログ値を読み取る](https://asukiaaa.blogspot.com/2021/08/analog-read-with-pic16f1829.html)
+[20201129_I2cControlPanel.xcf](./20201129_I2cControlPanel.xcf) | [エンコーダー（可変抵抗）が付いた有線コントローラーを作ってみた ](https://asukiaaa.blogspot.com/2020/11/i2c-control-panel.html)
 [20200405_PIC_speed.odp](./20200405_PIC_speed.odp) | [ピックマイコンPIC16F1829の反応速度を調べてみた](https://asukiaaa.blogspot.com/2020/04/pic16f1829-response.html)
 [201905_cat_surpriser.svg](./201905_cat_surpriser.svg) | [猫よけ水鉄砲用回路2019年ProMicro利用版](https://asukiaaa.blogspot.com/2019/05/2019promicro.html)
 [blog_favicon.png](./blog_favicon.png), [blog_favicon.xcf](./blog_favicon.xcf) | All pages
