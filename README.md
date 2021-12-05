@@ -3,6 +3,7 @@ Documents used on https://asukiaaa.blogspot.com
 
 File | Site
 ---- | ----
+[202112_ir_receive_send.svg](./202112_ir_receive_send.svg) | [Arduino(ESP32)でエアコンの赤外線リモコンの信号をコピーして発信する](https://asukiaaa.blogspot.com/2021/12/copy-and-send-ir-signal-by-esp32-arduino.html)
 [20210829_PIC_analog.odp](./20210829_PIC_analog.odp) | [pic16f1829でアナログ値を読み取る](https://asukiaaa.blogspot.com/2021/08/analog-read-with-pic16f1829.html)
 [20201129_I2cControlPanel.xcf](./20201129_I2cControlPanel.xcf) | [エンコーダー（可変抵抗）が付いた有線コントローラーを作ってみた ](https://asukiaaa.blogspot.com/2020/11/i2c-control-panel.html)
 [20200405_PIC_speed.odp](./20200405_PIC_speed.odp) | [ピックマイコンPIC16F1829の反応速度を調べてみた](https://asukiaaa.blogspot.com/2020/04/pic16f1829-response.html)
